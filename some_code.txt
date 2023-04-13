@@ -1,3 +1,7 @@
 fdsafdsa
 fdsfdsaf
 5rw432
+print('text here')
+while True:
+	print()
+	break
